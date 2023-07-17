@@ -1,6 +1,6 @@
+import discord
 from redbot.core import commands
 from discord.ext.commands import has_permissions, CheckFailure
-import discord
 
 class Break(commands.Cog):
     def __init__(self, bot):
