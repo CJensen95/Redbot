@@ -1,0 +1,19 @@
+{
+    "name": "break",
+    "short": "Break Roles",
+    "description": "Allow staff to go on break",
+    "end_user_data_statement": "idk what it stores",
+    "install_msg": "Thank you for taking a chance",
+    "author": [
+        "Tink3bby"
+    ],
+    "required_cogs": {},
+    "requirements": ["manage_roles"],
+    "tags": [
+        "break", "utility"
+    ],
+    "min_bot_version": "3.5.0.dev0",
+    "hidden": false,
+    "disabled": false,
+    "type": "COG"
+}
